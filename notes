@@ -1,0 +1,47 @@
+---------------------------------------------------------------------------
+System Components
+---------------------------------------------------------------------------
+01) Front End
+  01) Web Application (?)
+  02) Mobile Application (iOS, Android)
+
+02) Back End
+  01) Web Service (Node)
+  02) Database (MongoDB)
+ 
+
+---------------------------------------------------------------------------
+User Stories
+---------------------------------------------------------------------------
+01) User creates account
+02) User logs in
+03) User logs out
+04) User updates profile
+
+05) Student adds help request
+06) Student removes help request
+07) Student views docs
+
+08) Lab Assistant views help requests
+09) Lab Assistant adds help request
+10) Lab Assistant removes help request
+11) Lab Assistant updates help request
+12) Lab Assistant swaps help request
+
+13) Lab Assistant starts help session
+14) Lab Assistant ends help session
+
+15) Lab Assistant starts chat
+16) Lab Assistant ends chat
+17) Lab Assistant updates chat
+
+18) Admin views users
+19) Admin adds user
+20) Admin removes user
+21) Admin updates user
+
+22) Admin updates schedule (calendar and hours)
+23) Admin views stats
+
+24) System updates stats
+25) System forecasts stats
